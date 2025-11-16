@@ -1,3 +1,6 @@
+# 💫 About Me:
+Hello 👋<br>I'm Arda, just call me pure.<br>I love coding! (just kidding who loves it)<br>Well maybe after fixing a bug i guess lol
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ardabzyel) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@imreallypure) 
